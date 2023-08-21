@@ -433,7 +433,7 @@ function yabs(){
 
 # ==============part3=============
 function macka(){
-    wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/ednovas/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+    wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/isFire/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
 }
 
 
