@@ -1,4 +1,4 @@
-# EdNovas的Toolbox工具箱
+# 清汤白面的Toolbox工具箱
 
 简介：整合了一些常用的脚本，会尽量持续更新~
 
@@ -13,7 +13,7 @@
 最新版(该一键脚本已使用jsdelivr cdn，支持纯ipv6访问)：
 
 ```
-wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh
+wget -P /root -N https://raw.githubusercontent.com/isFire/vpstoolbox/main/ednovastool.sh && chmod +x ednovastool.sh && ./ednovastool.sh
 ```
 
 工具箱中脚本均来自GitHub，小部分已注明作者
@@ -25,6 +25,7 @@ wget -P /root -N https://cdn.jsdelivr.net/gh/ednovas/vpstoolbox@main/ednovastool
 TG群：https://t.me/ednovas4
 
 ## 更新进程
+v 1.2.9 更新 Xray 和 V2ray vless 配置，移除不受支持的 xtls
 
 v 1.2.8 快捷方式创建成功，可执行[ednovas]快捷重新打开脚本
 
